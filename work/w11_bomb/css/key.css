@@ -1,0 +1,14 @@
+#body{
+    border: 10px solid purple;
+    width: 340px;
+    text-align: center;
+}
+
+input{
+    margin: 10px;
+}
+
+#bombs img{
+    width: 25px;
+    margin: 5px 3px;
+}
